@@ -8,10 +8,6 @@
 
 Welcome to the **Deloitte Australia Data Analytics Job Simulation** project repository. 
 
-In this simulation, you'll tackle real-world client challenges mirroring the daily responsibilities of a **Data Analytics & Forensic Technology Consultant** at Deloitte Australia. The goal was to bridge the gap between raw data and executive-level decision-making transforming unstructured datasets into structured models, identifying operational trends, and presenting findings through clean, actionable visuals.
-
-Through hands-on data manipulation in Excel and Python alongside interactive storytelling in Tableau, this project highlights key competencies in forensic data classification, business intelligence, log analysis, and formal client communication.
-
 ---
 
 ## 🚀 How to Clone & Run This Project Locally
